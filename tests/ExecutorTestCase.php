@@ -13,5 +13,4 @@ class ExecutorTestCase extends \Orchestra\Testbench\TestCase
     {
         return ['Axsor\Executor\ExecutorServiceProvider'];
     }
-
 }
