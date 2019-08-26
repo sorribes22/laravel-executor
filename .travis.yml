@@ -1,0 +1,12 @@
+language: php
+
+php:
+  - 7.2
+  - 7.3
+
+before_script:
+  - travis_retry composer update
+  - composer dump-autoload
+
+script:
+  - vendor/bin/phpunit
