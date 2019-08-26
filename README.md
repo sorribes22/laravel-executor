@@ -1,4 +1,5 @@
 # Laravel executor
+[![Latest Stable Version](https://poser.pugx.org/axsor/laravel-executor/v/stable.png)](https://packagist.org/packages/axsor/laravel-executor)
 [![Build Status](https://travis-ci.org/sorribes22/laravel-executor.svg?branch=master)](https://travis-ci.org/sorribes22/laravel-executor)
 [![StyleCI](https://github.styleci.io/repos/204448361/shield?branch=master)](https://github.styleci.io/repos/204448361)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sorribes22/laravel-executor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sorribes22/laravel-executor/?branch=master)
